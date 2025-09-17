@@ -1,0 +1,1 @@
+This code allows you to input your height and weight and compare it to a data set of 25,000 others. When prompted please input your height in inches then in a sperate prompt you will input your weight in pounds. It will then output your percentile for weight and height.
